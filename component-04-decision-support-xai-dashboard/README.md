@@ -10,8 +10,8 @@ Validate dashboard accuracy to ensure displayed predictions and explanations rem
 Interactive Streamlit web-based decision-support dashboard.
 Regional yield prediction views paired with historical and forecasted weather trends.
 ## Technologies and Tools
-Python
-Streamlit
-Matplotlib, Seaborn, or Plotly
-SHAP (Explainable AI)
-Pandas and NumPy
+- Python
+* Streamlit
+- Matplotlib, Seaborn, or Plotly
+* SHAP (Explainable AI)
+- Pandas and NumPy
