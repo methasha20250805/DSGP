@@ -6,3 +6,12 @@ Apply Explainable AI (XAI) techniques to identify and measure the impact of key 
 Design and develop an interactive, user-friendly web dashboard using Streamlit for non-technical end users.   
 Display tea yield estimates alongside historical weather records, weather forecasts, and regional comparisons.   
 Validate dashboard accuracy to ensure displayed predictions and explanations remain consistent with underlying model outputs.
+## Expected Outputs
+Interactive Streamlit web-based decision-support dashboard.
+Regional yield prediction views paired with historical and forecasted weather trends.
+## Technologies and Tools
+Python
+Streamlit
+Matplotlib, Seaborn, or Plotly
+SHAP (Explainable AI)
+Pandas and NumPy
